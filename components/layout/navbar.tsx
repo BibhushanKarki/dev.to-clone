@@ -79,7 +79,7 @@ const Navbar = () => {
               <MenuButton as={Button} size="sm" px={0} py={0} rounded="full">
                 <Avatar
                   size={"sm"}
-                  src={"https://avatars2.githubusercontent.com/u/37842853?v=4"}
+                  src={"https://avatars.githubusercontent.com/u/24572691?v=4"}
                 />
               </MenuButton>
               <MenuList
@@ -90,15 +90,15 @@ const Navbar = () => {
                 boxColor="gray.700"
               >
                 <Link
-                  href="https://dev.to/m_ahmad"
+                  href="https://dev.to/bibhushankarki"
                   _hover={{ textDecoration: "none" }}
                   isExternal
                 >
                   <MenuItem>
                     <VStack justify="start" alignItems="left">
-                      <Text fontWeight="500">Muhammad Ahmad</Text>
+                      <Text fontWeight="500">Bibhushan Karki</Text>
                       <Text size="sm" color="gray.500" mt="0 !important">
-                        @m_ahmad
+                        @bibhushankarki
                       </Text>
                     </VStack>
                   </MenuItem>
