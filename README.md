@@ -40,7 +40,3 @@ This application is built with the following technologies:
     yarn dev
     ```
 The above command will start the application on [http://localhost:3000/](http://localhost:3000).
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
