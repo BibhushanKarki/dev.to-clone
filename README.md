@@ -29,7 +29,7 @@ This application is built with the following technologies:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/MA-Ahmad/dev.to-clone
+    git clone https://github.com/BibhushanKarki/dev.to-clone.git
     ```
 2. Install NPM packages
     ```sh
